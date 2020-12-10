@@ -5,7 +5,7 @@ import About from "./components/about";
 const IndexPage = () => {
   return (
     <div>
-      Task Manager
+      Project Tracker
       <br />
       <a href="/story/1">Homepage</a>
     </div>
