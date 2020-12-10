@@ -105,7 +105,7 @@ class Dashboard extends Component {
     return (
       <div>
         <div className="side">
-          <span className="logo">Task Manager</span>
+          <span className="logo">Project Tracker</span>
           <ul className="side-menu">{storyTable}</ul>
           <div className="otherMenu">
             <AddStory />
